@@ -1,4 +1,4 @@
-# 論文まとめ（Issues）
+# 論文まとめ（Open Access）
 Issueのタイトルを論文名とし，内容はIssue Templateに従う．
 
 ## どんなもの？（概要）
