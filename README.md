@@ -1,5 +1,5 @@
 # 論文まとめ（Open Access）
-Issueのタイトルを論文名とし，内容はIssue Templateに従う．
+Issueのタイトルを論文名とし，内容は[Issue Template](issue_template.md)に従う．
 
 ## どんなもの？（概要）
 主にAbstract/Conclusion/Introductionの内容から．
